@@ -1,4 +1,4 @@
-![alt text](./assets/terminal.png)
+![alt text](./assets/muncheez.png)
 
 Muncheez! is a food ordering CLI app. Built using Ruby and Active Record.
 
